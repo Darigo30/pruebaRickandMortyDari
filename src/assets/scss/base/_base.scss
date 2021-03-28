@@ -1,0 +1,18 @@
+@import 'reset';
+@import 'typography';
+@import 'animation';
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Shadows Into Light', cursive;
+    background-image: url('/src/assets/img/cropped-RM_page-header_background1-3.png');
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: cover;
+    height: 100vh;
+}
+.sppiner{
+    display: inline-block;
+}
